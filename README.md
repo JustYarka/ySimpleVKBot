@@ -1,0 +1,2 @@
+# ySimpleVKBot
+Simple VK bot 
