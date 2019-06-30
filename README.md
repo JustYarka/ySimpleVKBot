@@ -5,4 +5,4 @@ Simple VK bot
 You can change your group in and token in src/resources/config.yml
 
 # Plugins
-Please check example plugins
+Please check example plugin
