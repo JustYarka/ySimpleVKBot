@@ -1,4 +1,4 @@
-# ySimpleVKBot
+# Simple VK Bot
 Simple VK bot 
 
 # Config
